@@ -1,0 +1,1 @@
+este es un un proyecto personal para aprender interactuar y usar GitHub
